@@ -5,7 +5,7 @@ It is going to be an application, web and mobile (Android and IOS).
 It is going to be modular and should be usable by any business type, for example the doctor should be able to build the booking and secure video call for patient, the ABC shop should be able to send notification to their customemr when XYZ is on sale.
 
 ## Project stages
-### Architecture (we are here)
+### Architecture (current)
 Thinking about how everything is going to work together, what technology and architecture would be used, this will some diagrams and pictures.
 ### Infrastructure
 At this stage, we should already know what tools we are using and can write some code, or at least build the project.
